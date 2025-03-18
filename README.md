@@ -18,7 +18,7 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License © [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © [Hairyf](https://github.com/hairyf)
 
 <!-- Badges -->
 
