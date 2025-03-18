@@ -6,7 +6,7 @@ export default defineConfig((_options) => {
     entry: ['./src'],
     clean: true,
     dts: true,
-    format: ['esm', 'cjs'],
+    format: ['esm'],
     // minify: !options.watch,
     external: Object.keys(pkg.dependencies || {}),
 
