@@ -3,7 +3,7 @@ import { dependencies } from './package.json'
 
 export default defineConfig({
   fixedExtension: true,
-  entry: ['src/**/*.ts'],
+  entry: ['src/index.ts'],
   format: ['esm'],
   clean: true,
   dts: true,
